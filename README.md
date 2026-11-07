@@ -1,2 +1,2 @@
 # Patmosmweemba
- Creat zed bot 🇿🇲
+  zed bot 🇿🇲
